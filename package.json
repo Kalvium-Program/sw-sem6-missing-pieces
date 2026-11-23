@@ -1,0 +1,11 @@
+{
+  "name": "campus-lost-and-found",
+  "version": "1.0.0",
+  "description": "Report and find lost items on campus",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test tests/"
+  },
+  "engines": { "node": ">=18" }
+}
